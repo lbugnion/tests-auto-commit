@@ -1,5 +1,5 @@
 ---
-title: Another test topic (redirected from Authentication
+title: Another test topic (redirected from Authentication)
 description: Microsoft Glossary definition for Another test topic
 author: LBugnion
 ms.date: 28-Oct-20
@@ -7,7 +7,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Another test topic](/glossary/topic/test/authentication) (redirected from Authentication
+# [Another test topic](/glossary/topic/test/authentication) (redirected from Authentication)
 
 > A topic used to for tests only.
 

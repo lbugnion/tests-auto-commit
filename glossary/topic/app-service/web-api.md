@@ -1,5 +1,5 @@
 ---
-title: App Service (redirected from Web Api
+title: App Service (redirected from Web Api)
 description: Microsoft Glossary definition for App Service
 author: LBugnion
 ms.date: 02-Nov-20
@@ -7,7 +7,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [App Service](/glossary/topic/app-service/web-api) (redirected from Web Api
+# [App Service](/glossary/topic/app-service/web-api) (redirected from Web Api)
 
 > A web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
 

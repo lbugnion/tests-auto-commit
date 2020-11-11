@@ -1,5 +1,5 @@
 ---
-title: TLS/SSL (redirected from SSL
+title: TLS/SSL (redirected from SSL)
 description: Microsoft Glossary definition for TLS/SSL
 author: LBugnion
 ms.date: 04-Nov-20
@@ -7,7 +7,7 @@ ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [TLS/SSL](/glossary/topic/tls-ssl/ssl) (redirected from SSL
+# [TLS/SSL](/glossary/topic/tls-ssl/ssl) (redirected from SSL)
 
 > Two protocols used to encrypt communication on a network
 
