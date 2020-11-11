@@ -2,7 +2,7 @@
 title: App Service
 description: Microsoft Glossary definition for App Service
 author: LBugnion
-ms.date: 05-May-20
+ms.date: 02-Nov-20
 ms.prod: non-product-specific
 ms.topic: glossary
 ---

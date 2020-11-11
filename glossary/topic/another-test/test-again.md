@@ -1,13 +1,13 @@
 ---
-title: Yet another test topic (redirected from Test Again)
+title: Yet another test topic (redirected from Test Again
 description: Microsoft Glossary definition for Yet another test topic
 author: LBugnion
-ms.date: 19-May-20
+ms.date: 30-Oct-20
 ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Yet another test topic](/glossary/topic/another-test/test-again) (redirected from Test Again)
+# [Yet another test topic](/glossary/topic/another-test/test-again) (redirected from Test Again
 
 > Another topic used to for tests only, that you should probably ignore.
 

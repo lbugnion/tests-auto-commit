@@ -1,13 +1,13 @@
 ---
-title: Another test topic (redirected from Testing)
+title: Another test topic (redirected from Testing
 description: Microsoft Glossary definition for Another test topic
 author: LBugnion
-ms.date: 05-May-20
+ms.date: 28-Oct-20
 ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Another test topic](/glossary/topic/test/testing) (redirected from Testing)
+# [Another test topic](/glossary/topic/test/testing) (redirected from Testing
 
 > A topic used to for tests only.
 

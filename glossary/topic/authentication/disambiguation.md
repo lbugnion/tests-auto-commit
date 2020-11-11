@@ -2,7 +2,7 @@
 title: Authentication (disambiguation)
 description: Microsoft Glossary disambiguation for Authentication
 author: LBugnion
-ms.date: 19-May-20
+ms.date: 31-Oct-20
 ms.prod: non-product-specific
 ms.topic: glossary
 ---

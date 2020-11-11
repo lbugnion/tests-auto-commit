@@ -2,7 +2,7 @@
 title: Azure Active Directory AAD
 description: Microsoft Glossary definition for Azure Active Directory AAD
 author: LBugnion
-ms.date: 05-May-20
+ms.date: 31-Oct-20
 ms.prod: non-product-specific
 ms.topic: glossary
 ---

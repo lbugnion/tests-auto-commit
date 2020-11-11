@@ -1,13 +1,13 @@
 ---
-title: Serverless (redirected from Azure Function)
+title: Serverless (redirected from Azure Function
 description: Microsoft Glossary definition for Serverless
 author: LBugnion
-ms.date: 05-May-20
+ms.date: 03-Nov-20
 ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [Serverless](/glossary/topic/serverless/azure-function) (redirected from Azure Function)
+# [Serverless](/glossary/topic/serverless/azure-function) (redirected from Azure Function
 
 > A way to run applications on a server without having to manage this server
 

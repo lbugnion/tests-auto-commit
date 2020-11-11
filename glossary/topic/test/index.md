@@ -2,7 +2,7 @@
 title: Another test topic
 description: Microsoft Glossary definition for Another test topic
 author: LBugnion
-ms.date: 05-May-20
+ms.date: 28-Oct-20
 ms.prod: non-product-specific
 ms.topic: glossary
 ---

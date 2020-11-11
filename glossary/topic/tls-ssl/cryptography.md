@@ -1,13 +1,13 @@
 ---
-title: TLS/SSL (redirected from Cryptography)
+title: TLS/SSL (redirected from Cryptography
 description: Microsoft Glossary definition for TLS/SSL
 author: LBugnion
-ms.date: 05-May-20
+ms.date: 04-Nov-20
 ms.prod: non-product-specific
 ms.topic: glossary
 ---
 
-# [TLS/SSL](/glossary/topic/tls-ssl/cryptography) (redirected from Cryptography)
+# [TLS/SSL](/glossary/topic/tls-ssl/cryptography) (redirected from Cryptography
 
 > Two protocols used to encrypt communication on a network
 
