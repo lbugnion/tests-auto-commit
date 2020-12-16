@@ -1,41 +1,48 @@
-# Microsoft Glossary Synopsis: <!-- TOPIC -->
+# Microsoft Glossary Synopsis: <!-- TERM -->
 
-> This is a template to help you create a synopsis. [You can see an example here](https://github.com/lbugnion/ms-glossary/blob/master/synopsis/aad.md).
+> This is a template to help you create a synopsis. [You can see an example here](https://aka.ms/glossary/sample/synopsis).
 
-> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/contributing-synopsis.md)
+> Go to [the instructions to get started with a new term!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md)
 
 ## Submitted by
 
-<!-- ENTER YOUR NAME HERE -->
+Name: <!-- ENTER YOUR NAME HERE -->
 
-<!-- ENTER YOUR EMAIL HERE -->
+Email: <!-- ENTER YOUR EMAIL HERE -->
 
-<!-- ENTER YOUR TWITTER NAME HERE -->
+Twitter: <!-- ENTER YOUR TWITTER NAME HERE -->
+
+GitHub: <!-- ENTER YOUR GITHUB NAME HERE -->
 
 ## Short description
 
 <!-- ENTER A SHORT DESCRIPTION HERE -->
 
+> Please keep to about 25 words maximum.
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#short-description)
+
 ## Phonetics
 
 [https://tophonetics.com](https://tophonetics.com/)
 
-> Add an image of the phonetics for the word or the expression.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#phonetics)
+> Add the phonetics of the word or the expression.
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#phonetics)
 
 wɜrd
 
-![Phonetics image](images/WORD/Phonetics.png)
+## Personal notes
 
-## Topics
+> A bullet points list of notes you can use to keep track of things.
 
-> A list of topics you want to treat in this video.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#topics)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#personal-notes)
 
 ## Keywords
 
 > List of keywords or keyphrases, comma separated.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#keywords)
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#keywords-or-key-expressions)
 
 > For example
 
@@ -44,14 +51,16 @@ AAD, Active Directory, Authentication, Identity
 ## Demos
 
 > Quick list of the demos you want to show.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#demos)
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#demos)
 
 - Short description of the demo.
 
 ## Links to docs
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#docs)
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#links-to-docs)
 
 >For example:
 
@@ -60,7 +69,8 @@ AAD, Active Directory, Authentication, Identity
 ## Links to Learn
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#learn)
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#links-to-learn)
 
 >For example:
 
@@ -74,7 +84,8 @@ AAD, Active Directory, Authentication, Identity
 ## Script
 
 > A transcript of what you are planning to say on camera, including demos etc.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#script)
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#script)
 
 Today's word of the day is: WORD.
 Today's words of the day are: EXPRESSION.
