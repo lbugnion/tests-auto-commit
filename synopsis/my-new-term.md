@@ -1,4 +1,4 @@
-# Microsoft Glossary Synopsis: My new term
+# Microsoft Glossary Synopsis: My new term again
 
 > This is a template to help you create a synopsis. [You can see an example here](https://aka.ms/glossary/sample/synopsis).
 
