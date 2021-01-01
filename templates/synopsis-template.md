@@ -94,10 +94,12 @@ AAD, Active Directory, Authentication, Identity
 
 > When writing your script, and even though we are not working on the video yet, [keep in mind the general structure of the social videos](./getting-started-video.md).
 
+> For abbreviations, also mention the full expression in the intro and show phonetics too.
+
 Today's word of the day is: WORD.
 Today's words of the day are: EXPRESSION.
 Today's word of the day is an abbreviation: ABBREVIATION.
 
-Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+> Enter production notes like this. This is to help you while filming or while editing the video.
 
-> For abbreviations, also mention the full expression in the intro and show phonetics too.
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
