@@ -20,7 +20,7 @@ GitHub: <!-- ENTER YOUR GITHUB NAME HERE -->
 
 ## Short description
 
-> Please keep to about 25 words maximum.
+> Please keep between 60 and 200 characters.
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#short-description)
 
