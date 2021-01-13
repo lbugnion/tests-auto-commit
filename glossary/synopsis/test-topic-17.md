@@ -6,10 +6,6 @@
 
 ## Submitted by
 
-> Enter a comma-separated list of author names, email, Twitter handle and GitHub username.
-
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#submitted-by)
-
 Name: Laurent Bugnion
 
 Email: lbugnion@microsoft.com
@@ -63,29 +59,14 @@ AAD, Active Directory, Authentication, Identity
 
 - Short description of the demo.
 
-## Links to docs
+## ## Links to docs
 
-> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-docs)
+## ## Links to Learn
 
-- [An introduction to Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview)
 
-## Links to docs
+## ## Other Links (optional)
 
-> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-docs)
-
-- [An introduction to Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview)
-
-## Links to docs
-
-> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-docs)
-
-- [An introduction to Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview)
 
 ## Script
 
