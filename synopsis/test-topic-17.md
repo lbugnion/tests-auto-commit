@@ -24,7 +24,7 @@ GitHub: LBugnion, ScottCate
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#short-description)
 
-This is a test again
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
 
 ## Phonetics
 
