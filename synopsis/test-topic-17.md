@@ -10,13 +10,13 @@
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#submitted-by)
 
-Name: Laurent Bugnion
+Name: Laurent Bugnion, Scott Cate
 
-Email: lbugnion@microsoft.com
+Email: lbugnion@microsoft.com, scottca@microsoft.com
 
-Twitter: @LBugnion
+Twitter: @LBugnion, @ScottCa
 
-GitHub: LBugnion
+GitHub: LBugnion, ScottCate
 
 ## Short description
 
