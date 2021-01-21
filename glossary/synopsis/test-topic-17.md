@@ -6,13 +6,17 @@
 
 ## Submitted by
 
-Name: Laurent Bugnion
+> Enter a comma-separated list of author names, email, Twitter handle and GitHub username.
 
-Email: lbugnion@microsoft.com
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#submitted-by)
 
-Twitter: LBugnion
+Name: Laurent Bugnion, Scott Cate
 
-GitHub: LBugnion
+Email: lbugnion@microsoft.com, scottca@microsoft.com
+
+Twitter: LBugnion, ScottCa
+
+GitHub: LBugnion, ScottCate
 
 ## Short description
 
@@ -20,7 +24,7 @@ GitHub: LBugnion
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#short-description)
 
-This is a test again
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
 
 ## Phonetics
 
@@ -38,8 +42,7 @@ wɜrd
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#personal-notes)
 
-- Note 1
-- Note 2
+- I need to remember to buy a license for Office
 
 ## Keywords
 
@@ -49,24 +52,37 @@ wɜrd
 
 > For example
 
-AAD, Active Directory, Authentication, Identity
-
 ## Demos
 
 > Quick list of the demos you want to show.
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#demos)
 
-- Short description of the demo.
+- Here I want to show a screenshot of Words
+- Create a new document in Word
 
-## ## Links to docs
+## Links to docs
 
+> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
 
-## ## Links to Learn
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-docs)
 
+- [NO_LINK_TITLE](http://docs.microsoft.com/office365)
 
-## ## Other Links (optional)
+## Links to Learn
 
+> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-learn)
+
+> For example:
+
+- [Create serverless applications](https://docs.microsoft.com/learn/paths/create-serverless-applications) (*learning path*)
+- [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/learn/modules/shift-nodejs-express-apis-serverless) (*module*)
+
+## Other Links (optional)
+
+> These can be other links to Microsoft properties or to other sites.
 
 ## Script
 
@@ -79,7 +95,9 @@ AAD, Active Directory, Authentication, Identity
 > For abbreviations, also mention the full expression in the intro and show phonetics too.
 
 Today's word of the day is: WORD.
+
 Today's words of the day are: EXPRESSION.
+
 Today's word of the day is an abbreviation: ABBREVIATION.
 
 > Enter production notes like this. This is to help you while filming or while editing the video.
