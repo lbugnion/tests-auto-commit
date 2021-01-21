@@ -10,13 +10,13 @@
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#submitted-by)
 
-Name: Laurent Bugnion, Scott Cate
+Name: Laurent Bugnion
 
-Email: lbugnion@microsoft.com, scottca@microsoft.com
+Email: lbugnion@microsoft.com
 
-Twitter: LBugnion, ScottCa
+Twitter: LBugnion
 
-GitHub: LBugnion, ScottCate
+GitHub: LBugnion
 
 ## Short description
 
@@ -94,13 +94,9 @@ wɜrd
 
 > For abbreviations, also mention the full expression in the intro and show phonetics too.
 
-Today's word of the day is: WORD.
+Hello everyone to my new video
 
-Today's words of the day are: EXPRESSION.
+> Cut to screenshot of Microsoft Word
 
-Today's word of the day is an abbreviation: ABBREVIATION.
-
-> Enter production notes like this. This is to help you while filming or while editing the video.
-
-Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+Here you can see Microsoft Word in action
 
