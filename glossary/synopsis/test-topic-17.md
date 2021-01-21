@@ -42,7 +42,8 @@ wɜrd
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#personal-notes)
 
-- I need to remember to buy a license for Office
+- Note 1
+- Note 2
 
 ## Keywords
 
@@ -52,14 +53,15 @@ wɜrd
 
 > For example
 
+AAD, Active Directory, Authentication, Identity
+
 ## Demos
 
 > Quick list of the demos you want to show.
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#demos)
 
-- Here I want to show a screenshot of Words
-- Create a new document in Word
+- Short description of the demo.
 
 ## Links to docs
 
@@ -67,7 +69,7 @@ wɜrd
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-docs)
 
-- [NO_LINK_TITLE](http://docs.microsoft.com/office365)
+- [An introduction to Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview)
 
 ## Links to Learn
 
@@ -94,9 +96,13 @@ wɜrd
 
 > For abbreviations, also mention the full expression in the intro and show phonetics too.
 
-Hello everyone to my new video
+Today's word of the day is: WORD.
 
-> Cut to screenshot of Microsoft Word
+Today's words of the day are: EXPRESSION.
 
-Here you can see Microsoft Word in action
+Today's word of the day is an abbreviation: ABBREVIATION.
+
+> Enter production notes like this. This is to help you while filming or while editing the video.
+
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
