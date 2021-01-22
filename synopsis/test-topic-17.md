@@ -1,4 +1,4 @@
-# Microsoft Glossary Synopsis: Test topic 17B
+# Microsoft Glossary Synopsis: Test topic 17C
 
 > This is a template to help you create a synopsis. [You can see an example here](https://aka.ms/glossary/sample/synopsis).
 
