@@ -1,4 +1,4 @@
-# Microsoft Glossary Synopsis: Test topic 17
+# Microsoft Glossary Synopsis: Test topic 17A
 
 > This is a template to help you create a synopsis. [You can see an example here](https://aka.ms/glossary/sample/synopsis).
 
@@ -14,7 +14,7 @@ Name: Laurent Bugnion, Scott Cate
 
 Email: lbugnion@microsoft.com, scottca@microsoft.com
 
-Twitter: @LBugnion, @ScottCa
+Twitter: LBugnion, ScottCa
 
 GitHub: LBugnion, ScottCate
 
@@ -77,7 +77,7 @@ AAD, Active Directory, Authentication, Identity
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-learn)
 
->For example:
+> For example:
 
 - [Create serverless applications](https://docs.microsoft.com/learn/paths/create-serverless-applications) (*learning path*)
 - [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/learn/modules/shift-nodejs-express-apis-serverless) (*module*)
@@ -97,9 +97,12 @@ AAD, Active Directory, Authentication, Identity
 > For abbreviations, also mention the full expression in the intro and show phonetics too.
 
 Today's word of the day is: WORD.
+
 Today's words of the day are: EXPRESSION.
+
 Today's word of the day is an abbreviation: ABBREVIATION.
 
 > Enter production notes like this. This is to help you while filming or while editing the video.
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+
