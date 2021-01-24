@@ -42,7 +42,7 @@ wɜrd
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#personal-notes)
 
-- Note 1
+- Note 1B
 - Note 2
 - Note 3
 
