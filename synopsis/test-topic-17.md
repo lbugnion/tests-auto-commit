@@ -12,7 +12,7 @@
 
 Name: Laurent Bugnion, Scott Cate
 
-Email: fredmu2@microsoft.com, scottca@microsoft.com
+Email: fredmu3@microsoft.com, scottca@microsoft.com
 
 Twitter: LBugnion, ScottCa
 
