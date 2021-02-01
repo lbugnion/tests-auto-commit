@@ -15,7 +15,7 @@ ms.topic: glossary
 
 ## Download
 
-[You can download this video here](https://msglossarystore.blob.core.windows.net/videos/tls-ssl.en.mp4).
+[You can download this video here](https://msglossarystore.blob.core.windows.net/videos/tls-ssl.en.mp4)
 
 ## Languages
 

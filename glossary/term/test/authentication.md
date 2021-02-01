@@ -9,13 +9,13 @@ ms.topic: glossary
 
 # [Another test topic](/glossary/term/test/authentication) (redirected from Authentication)
 
-> A term used to for tests only.
+> A term used to for tests only, that you should probably also ignore.
 
 > [!VIDEO https://www.youtube.com/embed/TEST]
 
 ## Download
 
-[You can download this video here](https://msglossarystore.blob.core.windows.net/videos/test.en.mp4).
+[You can download this video here](https://msglossarystore.blob.core.windows.net/videos/test.en.mp4)
 
 ## Languages
 
