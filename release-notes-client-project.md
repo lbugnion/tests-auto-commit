@@ -2,7 +2,9 @@
 
 ## Known issues (still open)
 
-### Planned for [V1](https://github.com/lbugnion/tests-auto-commit/milestone/1) *(open)*
+## Closed issues
 
-[bug # 3](https://github.com/lbugnion/tests-auto-commit/issues/3) *(open)*: This is a test issue
+### Fixed issues in [V1](https://github.com/lbugnion/tests-auto-commit/milestone/1) *(open)*
+
+[bug # 3](https://github.com/lbugnion/tests-auto-commit/issues/3) *(closed on 01 Jan 0001)*: This is a test issue
 
