@@ -1,4 +1,4 @@
-# Release notes for [Test project API](https://github.com/lbugnion/tests-auto-commit/projects/1)
+## Release notes for [Test project API](https://github.com/lbugnion/tests-auto-commit/projects/1)
 
 ## Known issues (still open)
 

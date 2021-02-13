@@ -1,4 +1,4 @@
-# Release notes for [Client project](https://github.com/lbugnion/tests-auto-commit/projects/2)
+## Release notes for [Client project](https://github.com/lbugnion/tests-auto-commit/projects/2)
 
 This is header line 1
 
