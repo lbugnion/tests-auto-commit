@@ -1,4 +1,4 @@
-## Release notes for [Tests Auto Commit](https://github.com/lbugnion/tests-auto-commit)
+# Release notes for [Tests Auto Commit](https://github.com/lbugnion/tests-auto-commit)
 
 This is header line 1 for the main page
 
