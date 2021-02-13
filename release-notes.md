@@ -6,6 +6,6 @@ Here [is a link](http://galasoft.ch)
 
 ## Projects in this repo
 
-- [Client project](https://github.com/lbugnion/tests-auto-commit/blob/main/release-notes-client-project.md)
-- [Test project API](https://github.com/lbugnion/tests-auto-commit/blob/main/release-notes-test-project-api.md)
+- [Client project](https://github.com/lbugnion/tests-auto-commit/blob/master/release-notes-client-project.md)
+- [Test project API](https://github.com/lbugnion/tests-auto-commit/blob/master/release-notes-test-project-api.md)
 
